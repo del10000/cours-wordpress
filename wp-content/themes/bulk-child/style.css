@@ -1,0 +1,33 @@
+/*
+ Theme Name:   bulk-child
+ Description:  Description de mon thème enfant
+ Author:       Delphin
+ Template:     bulk
+ Version:      0.1.0
+*/
+
+
+.page-header a {
+    border-bottom: 0;
+    color: red
+}
+
+article{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.template-font{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+.side-margin{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
